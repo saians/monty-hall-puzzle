@@ -1,6 +1,5 @@
 # Simulation of Monty Hall problem
 This solution shows the probability puzzle of Monty Hall game. 
-##
 
 ## Assumption
 
@@ -11,13 +10,12 @@ which shows that if player switches the box there is more chance to win the game
 
 ## Running the solution
 
-build it by running mvn package in the terminal. \
-
+Build it by running mvn package in the terminal. \
 Set numberOfSimulations in GameApp. \
 Run GameApp and follow the console for results. \
-You can also run the test in GameTest which case gives more winning probability. \
+You can also run the test in GameTest which case gives more winning probability. 
 
-## Reference for problem
+## Reference for the problem
 https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 
